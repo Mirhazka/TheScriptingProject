@@ -40,8 +40,8 @@ Pour ce projet, nous formons une équipe de 3 personnes. Le temps alloué pour c
 - Product Owner
 - Technicien TSSR
 
-Cela nous a permit d'approfondir nos connaissances sur la méthode agile SCRUM.
-Pour ce projet, mon rôle d'un point de vue technique a été la conception du script dans le langage *shell*.
+Cela nous a permit d'approfondir nos connaissances sur la méthode agile SCRUM.  
+Pour ce projet, mon rôle d'un point de vue technique a été la conception du script dans le langage *shell*.  
 Ce sur quoi mettra l'accent ce dépôt. Pour avoir le dépôt complet du projet, cliquez [ici](https://github.com/WildCodeSchool/TSSR-BDX-0924-P2-G2.git).
 
 ## III. Choix techniques
